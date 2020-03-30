@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c78b190-081a-467f-a079-da99be638b69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YlLdBtF2JGNBXUjAyUXXiJ85sz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rusiru-PC\Desktop\MaxFlow" />
+      <recent name="C:\Users\Rusiru-PC\Desktop\MaxFlow\src\Test_Version_01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Testing_Ground" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rusiru-PC\Desktop\MaxFlow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaxFlow">
+    <configuration name="Datasets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Master.Datasets" />
+      <module name="MaxFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalEXT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Master.FinalEXT" />
+      <module name="MaxFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Master.Main" />
+      <module name="MaxFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master.MaxFlow" />
+      <module name="MaxFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxFlowCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master.MaxFlowCopy" />
+      <module name="MaxFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxFlow" />
+        <item itemvalue="Application.MaxFlowCopy" />
+        <item itemvalue="Application.FinalEXT" />
+        <item itemvalue="Application.Datasets" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c78b190-081a-467f-a079-da99be638b69" name="Default Changelist" comment="" />
+      <created>1583512318348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583512318348</updated>
+      <workItem from="1583512321849" duration="9944000" />
+      <workItem from="1583548651363" duration="1917000" />
+      <workItem from="1583591876922" duration="8022000" />
+      <workItem from="1583670682752" duration="10880000" />
+      <workItem from="1583761527231" duration="17000" />
+      <workItem from="1584388612145" duration="9306000" />
+      <workItem from="1584523321878" duration="5331000" />
+      <workItem from="1584624360581" duration="3571000" />
+      <workItem from="1584705002228" duration="343000" />
+      <workItem from="1584918562616" duration="16459000" />
+      <workItem from="1585084747833" duration="5910000" />
+      <workItem from="1585128648275" duration="33890000" />
+      <workItem from="1585327434893" duration="30488000" />
+      <workItem from="1585442858880" duration="1791000" />
+      <workItem from="1585486108653" duration="16692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584629605894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="729" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1584629605894" />
+    <state x="612" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1585345599922">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="612" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1585345599922" />
+    <state x="765" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583550476557" />
+    <state x="2446" y="209" key="FileChooserDialogImpl" timestamp="1585539335159">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585500199426" />
+    <state x="2446" y="209" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585539335159" />
+    <state width="1877" height="869" key="GridCell.Tab.0.bottom" timestamp="1585539487678">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="369" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1585345393017" />
+    <state width="1877" height="869" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585538109298" />
+    <state width="1877" height="869" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585539487678" />
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585133999005" />
+    <state width="1877" height="869" key="GridCell.Tab.0.center" timestamp="1585539487678">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="369" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1585345393016" />
+    <state width="1877" height="869" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585538109298" />
+    <state width="1877" height="869" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585539487678" />
+    <state width="1877" height="400" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585133999005" />
+    <state width="1877" height="869" key="GridCell.Tab.0.left" timestamp="1585539487678">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="369" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1585345393016" />
+    <state width="1877" height="869" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585538109298" />
+    <state width="1877" height="869" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585539487678" />
+    <state width="1877" height="400" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585133999005" />
+    <state width="1877" height="869" key="GridCell.Tab.0.right" timestamp="1585539487678">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="369" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1585345393017" />
+    <state width="1877" height="869" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585538109298" />
+    <state width="1877" height="869" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585539487678" />
+    <state width="1877" height="400" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585133999005" />
+    <state width="1877" height="391" key="GridCell.Tab.1.bottom" timestamp="1585266308003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585266308003" />
+    <state width="1323" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585096702669" />
+    <state width="1877" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583536689909" />
+    <state width="1877" height="391" key="GridCell.Tab.1.center" timestamp="1585266308003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585266308003" />
+    <state width="1323" height="258" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585096702669" />
+    <state width="1877" height="263" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583536689909" />
+    <state width="1877" height="391" key="GridCell.Tab.1.left" timestamp="1585266308003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585266308003" />
+    <state width="1323" height="258" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585096702669" />
+    <state width="1877" height="263" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583536689909" />
+    <state width="1877" height="391" key="GridCell.Tab.1.right" timestamp="1585266308003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585266308003" />
+    <state width="1323" height="258" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1585096702669" />
+    <state width="1877" height="263" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583536689909" />
+    <state x="476" y="182" key="SettingsEditor" timestamp="1585266268647">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="476" y="182" key="SettingsEditor/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585266268647" />
+    <state x="657" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585486136102">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="657" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585486136102" />
+    <state x="657" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585128669084" />
+    <state x="476" y="242" key="run.anything.popup" timestamp="1585175533882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="476" y="242" key="run.anything.popup/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585175533882" />
+    <state x="2259" y="172" key="run.anything.popup/0.0.1920.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1583614850305" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1585134258082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1585134258082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coderally/parenth.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="graph[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MaxFlow$veryBigSum.ic" NAME="veryBigSum Coverage Results" MODIFIED="1583599345675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>coderally.*</FILTER>
+    </SUITE>
+  </component>
+</project>
